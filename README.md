@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sridhana Murugan</h1>
+<h1 align="center">Hi, I'm Sridhana Murugan!</h1>
 
 
 I’m a cybersecurity student and aspiring software engineer with a passion for **security, infrastructure, and backend development**.  
